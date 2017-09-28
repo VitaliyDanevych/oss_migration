@@ -1,0 +1,3173 @@
+<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne16_2.dtd">
+<Model version="1" importVersion="16.2">
+  <Create>
+         <Site userLabel="CH9032"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="CH9034"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="CH9036"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="CK4601"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="CK4651"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="CK9002"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="CKI920"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="CKI932"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0002"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0005"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0008"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0010"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0012"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0014"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0018"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0019"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0021"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0022"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0023"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0025"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0026"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0027"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0034"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0035"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0041"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0042"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0043"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0044"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0045"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0049"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0050"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0052"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0053"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0057"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0059"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0061"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0064"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0065"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0066"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0067"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0068"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0069"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0070"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0071"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0072"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0075"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0079"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0118"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0119"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0121"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0130"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0131"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0132"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0133"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0134"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0135"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0136"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0137"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0138"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0139"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0140"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0150"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0154"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0155"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0156"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0157"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0159"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0160"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0161"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0162"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0164"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0166"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0167"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0169"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0170"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0171"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0174"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0175"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0177"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0178"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0180"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0181"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0183"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0184"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0185"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0189"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0190"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0195"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0198"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0200"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0201"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0208"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0210"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0212"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0213"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0214"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0215"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0216"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0217"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0218"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0219"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0220"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0222"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0223"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0224"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0225"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0227"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0237"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0239"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0240"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0241"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0242"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0243"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0244"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0245"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0246"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0247"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0248"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0250"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0251"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0252"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0253"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0255"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0256"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0260"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0261"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0268"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0269"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0270"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0272"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0284"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0285"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0311"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0312"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0314"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0315"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0323"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0324"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0327"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0328"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0332"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0333"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0337"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0338"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0339"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0341"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0347"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0349"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0351"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0355"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0356"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0359"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0362"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0363"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0364"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0366"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0367"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0371"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0372"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0373"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0375"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0383"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0385"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0389"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0390"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0391"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0392"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0395"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0396"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0398"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0399"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0400"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0401"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0402"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0403"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0406"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0410"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0411"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0412"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0413"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0415"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0418"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0420"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0421"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0422"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0423"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0424"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0426"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0427"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0428"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0429"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0430"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0431"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0436"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0437"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0439"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0441"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0442"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0443"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0449"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0452"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0453"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0454"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0455"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0456"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0457"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0459"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0460"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0461"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0462"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0464"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0465"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0466"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0467"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0468"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0472"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0473"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0474"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0475"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0476"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0477"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0479"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0482"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0483"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0485"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0486"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0488"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0491"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0493"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0494"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0495"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0500"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0501"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0510"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0511"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0512"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0513"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0514"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0515"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0519"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0538"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0542"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0546"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0552"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0554"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0555"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0556"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0557"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0559"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0561"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0562"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0563"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0565"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0566"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0567"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0569"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0571"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0572"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0573"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0576"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0577"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0578"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0579"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0580"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0581"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0582"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0584"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0602"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0604"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0605"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0606"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0615"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0616"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0617"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0618"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0621"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0622"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0628"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0636"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0641"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0645"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0667"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0670"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0673"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0675"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0676"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0683"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0686"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0687"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0696"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0711"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0714"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0716"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0726"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0727"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0734"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0736"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0744"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0766"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0781"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0784"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0789"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0791"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0793"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0800"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0808"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI0813"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI1002"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI1012"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI1039"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI1068"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI1076"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI1930"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI1957"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI2052"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI2858"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI3003"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI6001"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI6005"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI6007"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI6010"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI6011"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI6012"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI6019"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI6022"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KI9057"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII862"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII885"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII887"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII894"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII900"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII912"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII926"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII930"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII936"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII938"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII942"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII950"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII951"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII957"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII985"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII988"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII989"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII990"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KII999"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KYI910"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KYI913"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KYI915"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KYI916"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KYI953"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KYI955"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+         <Site userLabel="KYI957"/>
+            <altitude string="0"/>
+            <location string="All Ukraine"/>
+            <longitude string="0"/>
+            <latitude string="0"/>
+            <worldTimeZoneId string="Europe/Kiev"/>
+            <freeText string=""/>
+            <datum string="wgs84"/
+         </Site>
+  </Create>
+</Model>

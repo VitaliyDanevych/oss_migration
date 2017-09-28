@@ -1,0 +1,267 @@
+<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne16_2.dtd">
+<Model version="1" importVersion="16.2">
+  <Create>
+	  <SubNetwork userLabel="KIER2" networkType="IPRAN">
+	  <Group userLabel="RBSGroup" groupType="RBSGroup" networkType="WCDMA"></Group>
+	  <ManagedElement sourceType="CELLO">
+            <ManagedElementId string="CH9032"/>
+            <primaryType type="RBS"/>
+            <managedElementType types=""/>
+            <associatedSite string="Site=CH9032"/>
+            <nodeVersion string=""/>
+            <platformVersion string=""/>
+            <swVersion string=""/>
+            <vendorName string="Ericsson"/>
+            <userDefinedState string=""/>
+            <managedServiceAvailability int="1"/>
+            <isManaged boolean="true"/>
+            <neMIMVersion string="U.3.1"/>
+            <connectionStatus string="ON"/>
+            <ManagedFunction>
+               <functionType string="NodeB"/>
+               <supportSystemControl boolean="true"/>
+            </ManagedFunction>
+            <Connectivity>
+               <DEFAULT>
+                  <emUrl url="http://10.83.42.33:80/em/index.html"/>
+                  <ipAddress string="10.83.42.33"/>
+                  <oldIpAddress string=""/>
+                  <hostname string="CH9032"/>
+                  <nodeSecurityState state="ON"/>
+                  <boardId string=""/>
+                  <Protocol number="0">
+                     <protocolType string="CORBA"/>
+                     <port int="0"/>
+                     <protocolVersion string="v3.2"/>
+                     <securityName string=""/>
+                     <authenticationMethod string=""/>
+                     <encryptionMethod string=""/>
+                     <communityString string=""/>
+                     <context string=""/>
+                     <namingUrl string="http://10.83.42.33:80/cello/ior_files/nameroot.ior"/>
+                     <namingPort int="0"/>
+                     <notificationIRPAgentVersion string="3.2"/>
+                     <alarmIRPAgentVersion string="3.2"/>
+                     <notificationIRPNamingContext context="NOTIFICATION_IRP_VERSION_1_1"/>
+                     <alarmIRPNamingContext context="ALARM_IRP_VERSION_1_1"/>
+                  </Protocol>
+                  <Protocol number="1">
+                     <protocolType string="TELNET"/>
+                     <port int="23"/>
+                     <protocolVersion string="v2"/>
+                     <securityName string=""/>
+                     <authenticationMethod string=""/>
+                     <encryptionMethod string=""/>
+                     <communityString string=""/>
+                     <context string=""/>
+                     <namingUrl string=""/>
+                     <namingPort int=""/>
+                     <notificationIRPAgentVersion string=""/>
+                     <alarmIRPAgentVersion string=""/>
+                     <notificationIRPNamingContext context=""/>
+                     <alarmIRPNamingContext context=""/>
+                  </Protocol>
+                  <Browser>
+                     <browser string=""/>
+                     <browserURL string=""/>
+                     <bookname string=""/>
+                  </Browser>
+               </DEFAULT>
+            </Connectivity>
+            <Tss>
+               <Entry>
+                  <System string="CH9032"/>
+                  <Type string="NORMAL"/>
+                  <User string="rbs"/>
+                  <Password string="rbs"/>
+               </Entry>
+               <Entry>
+                  <System string="CH9032"/>
+                  <Type string="SECURE"/>
+                  <User string="rbs"/>
+                  <Password string="rbs"/>
+               </Entry>
+            </Tss>
+            <Relationship>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-back-ki2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-key-ki2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-sws-ki2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>
+               <AssociableNode TO_FDN="ManagementNode=ONRM" AssociationType="MgmtAssociation"/>
+               <AssociableNode TO_FDN="SubNetwork=KIER2,Group=RBSGroup" AssociationType="Group_to_MeContext"/>
+            /<Relationship>
+	  </ManagedElement>
+	  <ManagedElement sourceType="CELLO">
+            <ManagedElementId string="CH9034"/>
+            <primaryType type="RBS"/>
+            <managedElementType types=""/>
+            <associatedSite string="Site=CH9034"/>
+            <nodeVersion string=""/>
+            <platformVersion string=""/>
+            <swVersion string=""/>
+            <vendorName string="Ericsson"/>
+            <userDefinedState string=""/>
+            <managedServiceAvailability int="1"/>
+            <isManaged boolean="true"/>
+            <neMIMVersion string="U.3.1"/>
+            <connectionStatus string="ON"/>
+            <ManagedFunction>
+               <functionType string="NodeB"/>
+               <supportSystemControl boolean="true"/>
+            </ManagedFunction>
+            <Connectivity>
+               <DEFAULT>
+                  <emUrl url="http://10.83.42.37:80/em/index.html"/>
+                  <ipAddress string="10.83.42.37"/>
+                  <oldIpAddress string=""/>
+                  <hostname string="CH9034"/>
+                  <nodeSecurityState state="ON"/>
+                  <boardId string=""/>
+                  <Protocol number="0">
+                     <protocolType string="CORBA"/>
+                     <port int="0"/>
+                     <protocolVersion string="v3.2"/>
+                     <securityName string=""/>
+                     <authenticationMethod string=""/>
+                     <encryptionMethod string=""/>
+                     <communityString string=""/>
+                     <context string=""/>
+                     <namingUrl string="http://10.83.42.37:80/cello/ior_files/nameroot.ior"/>
+                     <namingPort int="0"/>
+                     <notificationIRPAgentVersion string="3.2"/>
+                     <alarmIRPAgentVersion string="3.2"/>
+                     <notificationIRPNamingContext context="NOTIFICATION_IRP_VERSION_1_1"/>
+                     <alarmIRPNamingContext context="ALARM_IRP_VERSION_1_1"/>
+                  </Protocol>
+                  <Protocol number="1">
+                     <protocolType string="TELNET"/>
+                     <port int="23"/>
+                     <protocolVersion string="v2"/>
+                     <securityName string=""/>
+                     <authenticationMethod string=""/>
+                     <encryptionMethod string=""/>
+                     <communityString string=""/>
+                     <context string=""/>
+                     <namingUrl string=""/>
+                     <namingPort int=""/>
+                     <notificationIRPAgentVersion string=""/>
+                     <alarmIRPAgentVersion string=""/>
+                     <notificationIRPNamingContext context=""/>
+                     <alarmIRPNamingContext context=""/>
+                  </Protocol>
+                  <Browser>
+                     <browser string=""/>
+                     <browserURL string=""/>
+                     <bookname string=""/>
+                  </Browser>
+               </DEFAULT>
+            </Connectivity>
+            <Tss>
+               <Entry>
+                  <System string="CH9034"/>
+                  <Type string="NORMAL"/>
+                  <User string="rbs"/>
+                  <Password string="rbs"/>
+               </Entry>
+               <Entry>
+                  <System string="CH9034"/>
+                  <Type string="SECURE"/>
+                  <User string="rbs"/>
+                  <Password string="rbs"/>
+               </Entry>
+            </Tss>
+            <Relationship>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-back-ki2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-key-ki2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-sws-ki2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>
+               <AssociableNode TO_FDN="ManagementNode=ONRM" AssociationType="MgmtAssociation"/>
+               <AssociableNode TO_FDN="SubNetwork=KIER2,Group=RBSGroup" AssociationType="Group_to_MeContext"/>
+            /<Relationship>
+	  </ManagedElement>
+	  <ManagedElement sourceType="CELLO">
+            <ManagedElementId string="CH9036"/>
+            <primaryType type="RBS"/>
+            <managedElementType types=""/>
+            <associatedSite string="Site=CH9036"/>
+            <nodeVersion string=""/>
+            <platformVersion string=""/>
+            <swVersion string=""/>
+            <vendorName string="Ericsson"/>
+            <userDefinedState string=""/>
+            <managedServiceAvailability int="1"/>
+            <isManaged boolean="true"/>
+            <neMIMVersion string="U.3.1"/>
+            <connectionStatus string="ON"/>
+            <ManagedFunction>
+               <functionType string="NodeB"/>
+               <supportSystemControl boolean="true"/>
+            </ManagedFunction>
+            <Connectivity>
+               <DEFAULT>
+                  <emUrl url="http://10.83.42.45:80/em/index.html"/>
+                  <ipAddress string="10.83.42.45"/>
+                  <oldIpAddress string=""/>
+                  <hostname string="CH9036"/>
+                  <nodeSecurityState state="ON"/>
+                  <boardId string=""/>
+                  <Protocol number="0">
+                     <protocolType string="CORBA"/>
+                     <port int="0"/>
+                     <protocolVersion string="v3.2"/>
+                     <securityName string=""/>
+                     <authenticationMethod string=""/>
+                     <encryptionMethod string=""/>
+                     <communityString string=""/>
+                     <context string=""/>
+                     <namingUrl string="http://10.83.42.45:80/cello/ior_files/nameroot.ior"/>
+                     <namingPort int="0"/>
+                     <notificationIRPAgentVersion string="3.2"/>
+                     <alarmIRPAgentVersion string="3.2"/>
+                     <notificationIRPNamingContext context="NOTIFICATION_IRP_VERSION_1_1"/>
+                     <alarmIRPNamingContext context="ALARM_IRP_VERSION_1_1"/>
+                  </Protocol>
+                  <Protocol number="1">
+                     <protocolType string="TELNET"/>
+                     <port int="23"/>
+                     <protocolVersion string="v2"/>
+                     <securityName string=""/>
+                     <authenticationMethod string=""/>
+                     <encryptionMethod string=""/>
+                     <communityString string=""/>
+                     <context string=""/>
+                     <namingUrl string=""/>
+                     <namingPort int=""/>
+                     <notificationIRPAgentVersion string=""/>
+                     <alarmIRPAgentVersion string=""/>
+                     <notificationIRPNamingContext context=""/>
+                     <alarmIRPNamingContext context=""/>
+                  </Protocol>
+                  <Browser>
+                     <browser string=""/>
+                     <browserURL string=""/>
+                     <bookname string=""/>
+                  </Browser>
+               </DEFAULT>
+            </Connectivity>
+            <Tss>
+               <Entry>
+                  <System string="CH9036"/>
+                  <Type string="NORMAL"/>
+                  <User string="rbs"/>
+                  <Password string="rbs"/>
+               </Entry>
+               <Entry>
+                  <System string="CH9036"/>
+                  <Type string="SECURE"/>
+                  <User string="rbs"/>
+                  <Password string="rbs"/>
+               </Entry>
+            </Tss>
+            <Relationship>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-back-ki2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-key-ki2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>
+               <AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-sws-ki2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>
+               <AssociableNode TO_FDN="ManagementNode=ONRM" AssociationType="MgmtAssociation"/>
+               <AssociableNode TO_FDN="SubNetwork=KIER2,Group=RBSGroup" AssociationType="Group_to_MeContext"/>
+            /<Relationship>
+	  </ManagedElement>
+	  ...........
