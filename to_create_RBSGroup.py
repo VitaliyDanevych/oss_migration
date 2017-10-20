@@ -172,8 +172,8 @@ def main():
     f3.close()
 
     print "to_create_RBSGroup.xml file was created."
-    print 'For check xml file use: ' + '/opt/ericsson/arne/bin/import.sh -f /tmp/siu/to_create_RBSGroup.xml -val:rall' + '\n'
-    print 'For start xml file use: ' + '/opt/ericsson/arne/bin/import.sh -import -f /tmp/siu/to_create_RBSGroup.xml' + '\n'
+    print 'For check xml file use: ' + '/opt/ericsson/arne/bin/import.sh -f /home/fmuser2/scripts/oss_migration/to_create_RBSGroup.xml -val:rall' + '\n'
+    print 'For start xml file use: ' + '/opt/ericsson/arne/bin/import.sh -import -f /home/fmuser2/scripts/oss_migration/to_create_RBSGroup.xml' + '\n'
     print 'Check error at error log: error_RBSGroup.log' + '\n'
 
 
