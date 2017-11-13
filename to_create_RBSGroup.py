@@ -34,11 +34,11 @@ def main():
                 f3.write('The quantuty of arguments at the line number ' + str(line_num) + ' is not enouph (3)' + '\n')
                 #continue
             ## Header
-            if line_num == 1:    
+            if line_num == 1:
+                f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne17_0.dtd">'+ '\n') 
                 #f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne16_2.dtd">'+ '\n') 
-				f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne17_0.dtd">'+ '\n') 
                 #f.write('<Model version="1" importVersion="16.2">'+ '\n')
-				f.write('<Model version="1" importVersion="17.0">'+ '\n')
+                f.write('<Model version="1" importVersion="17.0">'+ '\n')
                 f.write('  '+ '<Create>'+ '\n')
                 ## Subnetwork start here
                 f.write('	  '+ '<SubNetwork userLabel="'+ rnc +'" networkType="IPRAN">'+ '\n')
@@ -142,11 +142,11 @@ def main():
             ## Relationship start
             f.write('            '+ '<Relationship>'+ '\n')
             #f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-back-ki2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>'+ '\n')
-			f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-back-dn2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>'+ '\n')
+            f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-back-dn2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>'+ '\n')
             #f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-key-ki2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>'+ '\n') 
-			f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-key-dn2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>'+ '\n') 
+            f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-key-dn2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>'+ '\n') 
             #f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-sws-ki2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>'+ '\n')
-			f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-sws-dn2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>'+ '\n')
+            f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-sws-dn2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>'+ '\n')
             f.write('               '+ '<AssociableNode TO_FDN="ManagementNode=ONRM" AssociationType="MgmtAssociation"/>'+ '\n')
             f.write('               '+ '<AssociableNode TO_FDN="SubNetwork=' + rnc + ',Group=RBSGroup" AssociationType="Group_to_MeContext"/>'+ '\n')
             ## Relationship end

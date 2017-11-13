@@ -33,15 +33,14 @@ def main():
                 f3.write('The quantuty of arguments at the line number ' + str(line_num) + ' is not enouph (3)' + '\n')
                 #continue
             ## Header
-            if line_num == 1:    
+            if line_num == 1:
+                f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne17.dtd">'+ '\n')
                 #f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne16_2.dtd">'+ '\n') 
-				f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne17.dtd">'+ '\n') 
                 #f.write('<Model version="1" importVersion="16.2">'+ '\n')
-				f.write('<Model version="1" importVersion="17.0">'+ '\n')
+                f.write('<Model version="1" importVersion="17.0">'+ '\n')
                 f.write('  '+ '<Create>'+ '\n')
-                
-            #print str(line_num) + '\n '
-            #print row
+                #print str(line_num) + '\n '
+                #print row
             if len(site_name) <> 6:
                 print "Correct site was not found, I'll miss that line, line_num is " + str(line_num)
                 f3.write('Correct site was not found: ' + site_name + ', I will miss that line, line_num is ' + str(line_num) + '\n')
