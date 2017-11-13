@@ -34,7 +34,7 @@ def main():
                 #continue
             ## Header
             if line_num == 1:
-                f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne17.dtd">'+ '\n')
+                f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne17_0.dtd">'+ '\n')
                 #f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne16_2.dtd">'+ '\n') 
                 #f.write('<Model version="1" importVersion="16.2">'+ '\n')
                 f.write('<Model version="1" importVersion="17.0">'+ '\n')
