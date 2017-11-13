@@ -1,22 +1,10 @@
 #  #!/usr/bin/env python
 __AUTHOR__='Danevych V.'
-__COPYRIGHT__='Danevych V. 2016 Kiev, Ukraine'
+__COPYRIGHT__='Danevych V. 2017 Kiev, Ukraine'
 #vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
 
 import csv
 
-"""
-/opt/ericsson/ddc/util/bin/listme | grep RBS_NODE_MODEL | sed -e 's/[@=,]/ /g' | grep KIER  | awk '{print $4 ";" $6 ";" $7 }' | sort| uniq > ${wdir}/ipdatabase.txt
-KIER2;KI0026;10.82.39.177
-KIER2;KI0027;10.82.45.164
-
-/opt/ericsson/ddc/util/bin/listme | grep RBS_NODE_MODEL | sed -e 's/[@=,]/ /g' | grep KIER  | awk '{print $6 "   " $7 "   "	"rbs"}' | sort| uniq > ${wdir}/ipdatabase.txt
-CH0017   10.83.40.195   rbs
-CH0018   10.83.40.17   rbs
-
-/opt/ericsson/ddc/util/bin/listme | grep RBS_NODE_MODEL | sed -e 's/[@=,]/ /g' | grep KIER6  | awk '{print $6 }' | sort| uniq >  to_create_site.txt  # only sites
-"""    
-    
     
 def main():
     try:
@@ -41,14 +29,16 @@ def main():
             rnc = row[0].strip().upper() # upper case and remove all spaces
             site_name= row[1].strip().upper()
             ip = row[2].strip()
-            if rnc not in ('KIER1','KIER2','KIER3','KIER4','KIER5','KIER6','KIER7'):
+            if rnc not in ('KITR1','KIER1','KIER2','KIER3','KIER4','KIER5','KIER6','KIER7'):
                 print "First correct argument was not found, (KIERX) I'll miss that line, line_num is " + str(line_num)
                 f3.write('The quantuty of arguments at the line number ' + str(line_num) + ' is not enouph (3)' + '\n')
                 #continue
             ## Header
             if line_num == 1:    
-                f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne16_2.dtd">'+ '\n') 
-                f.write('<Model version="1" importVersion="16.2">'+ '\n')
+                #f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne16_2.dtd">'+ '\n') 
+				f.write('<!DOCTYPE Model SYSTEM "/opt/ericsson/arne/etc/arne17_0.dtd">'+ '\n') 
+                #f.write('<Model version="1" importVersion="16.2">'+ '\n')
+				f.write('<Model version="1" importVersion="17.0">'+ '\n')
                 f.write('  '+ '<Create>'+ '\n')
                 ## Subnetwork start here
                 f.write('	  '+ '<SubNetwork userLabel="'+ rnc +'" networkType="IPRAN">'+ '\n')
@@ -151,9 +141,12 @@ def main():
             f.write('            '+ '</Tss>'+ '\n')
             ## Relationship start
             f.write('            '+ '<Relationship>'+ '\n')
-            f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-back-ki2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>'+ '\n')
-            f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-key-ki2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>'+ '\n') 
-            f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-sws-ki2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>'+ '\n')
+            #f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-back-ki2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>'+ '\n')
+			f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-back-dn2nedss" AssociationType="ManagedElement_to_ftpBackupStore"/>'+ '\n')
+            #f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-key-ki2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>'+ '\n') 
+			f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-key-dn2nedss" AssociationType="ManagedElement_to_ftpLicenseKeyStore"/>'+ '\n') 
+            #f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-ki2nedss,FtpService=w-sws-ki2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>'+ '\n')
+			f.write('               '+ '<AssociableNode TO_FDN="FtpServer=SMRSSLAVE-WRAN-dn2nedss,FtpService=w-sws-dn2nedss" AssociationType="ManagedElement_to_ftpSwStore"/>'+ '\n')
             f.write('               '+ '<AssociableNode TO_FDN="ManagementNode=ONRM" AssociationType="MgmtAssociation"/>'+ '\n')
             f.write('               '+ '<AssociableNode TO_FDN="SubNetwork=' + rnc + ',Group=RBSGroup" AssociationType="Group_to_MeContext"/>'+ '\n')
             ## Relationship end
