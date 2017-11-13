@@ -45,6 +45,8 @@ cd ${wdir}/
 echo "extract only $1 RNC to $1.xml file..."
 /opt/ericsson/arne/modeltrans/bin/searchManagedElementById.sh whole_network_exported.xml $1 to_create_RNC_$1.xml
 echo "to_create_RNC_$1.xml file was created."
+echo "replace of ki2* to dn2* is in progres..."
+perl -pi -e 's/ki2/dn2/g' to_create_RNC_$1.xml
 echo "For check xml file use: /opt/ericsson/arne/bin/import.sh -f ${wdir}/to_create_RNC_${1}.xml -val:rall"
 echo "For start xml file use: /opt/ericsson/arne/bin/import.sh -import -f ${wdir}/to_create_RNC_${1}.xml"
 	
