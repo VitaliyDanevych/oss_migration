@@ -150,7 +150,7 @@ def main():
             f.write('               '+ '<AssociableNode TO_FDN="ManagementNode=ONRM" AssociationType="MgmtAssociation"/>'+ '\n')
             f.write('               '+ '<AssociableNode TO_FDN="SubNetwork=' + rnc + ',Group=RBSGroup" AssociationType="Group_to_MeContext"/>'+ '\n')
             ## Relationship end
-            f.write('            '+ '/<Relationship>'+ '\n')
+            f.write('            '+ '</Relationship>'+ '\n')
             ## Manage Element ends here
             f.write('	  '+ '</ManagedElement>'+ '\n')
   
