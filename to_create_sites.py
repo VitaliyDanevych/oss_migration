@@ -2,6 +2,7 @@
 __AUTHOR__='Danevych V.'
 __COPYRIGHT__='Danevych V. 2017 Kiev, Ukraine'
 
+import os
 import csv
 
 
@@ -22,7 +23,7 @@ def main():
             #print 'str(len(row))= ' + str(len(row))
             #print row
             if (not len(row) == 3):
-                print 'The quantuty of arguments at the line number ' + str(line_num) + ' is not enouph (3)'
+                print 'The quantuty of arguments at the line number ' + str(line_num) + 'python is not enouph (3)'
                 f3.write('The quantuty of arguments at the line number ' + str(line_num) + ' is not enouph (3)' + '\n')
                 continue
             rnc = row[0].strip().upper() # upper case and remove all spaces
@@ -62,8 +63,9 @@ def main():
     f3.close()
 
 print "to_create_site.xml file was created."
-print 'For check xml file use: ' + '/opt/ericsson/arne/bin/import.sh -f /home/fmuser2/scripts/oss_migration/to_create_site.xml -val:rall' + '\n'
-print 'For start xml file use: ' + '/opt/ericsson/arne/bin/import.sh -import -f /home/fmuser2/scripts/oss_migration/to_create_site.xml' + '\n'
+print 'For check xml file use: ' + '/opt/ericsson/arne/bin/import.sh -f ' + os.getcwd() + '/to_create_site.xml -val:rall' + '\n'
+print 'For start xml file use: ' + '/opt/ericsson/arne/bin/import.sh -import -f ' + os.getcwd() + '/to_create_site.xml' + '\n'
+#print 'For start xml file use: ' + '/opt/ericsson/arne/bin/import.sh -import -f /home/fmuser2/scripts/oss_migration/to_create_site.xml' + '\n'
 print 'Check error at error log: error_creating_sites.log' + '\n'
 
 
