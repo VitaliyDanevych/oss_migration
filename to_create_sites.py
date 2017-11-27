@@ -47,14 +47,14 @@ def main():
                 f3.write('Correct site was not found: ' + site_name + ', I will miss that line, line_num is ' + str(line_num) + '\n')
                 continue
             ## Manage Element starts create
-            f.write('         ' + '<Site userLabel="' + site_name + '"/>'+ '\n') 
+            f.write('         ' + '<Site userLabel="' + site_name + '">'+ '\n') 
             f.write('            ' + '<altitude string="0"/>' + '\n')
             f.write('            ' + '<location string="All Ukraine"/>' + '\n')
             f.write('            ' + '<longitude string="0"/>' + '\n')
             f.write('            ' + '<latitude string="0"/>' + '\n')
             f.write('            ' + '<worldTimeZoneId string="Europe/Kiev"/>'+ '\n')
             f.write('            ' + '<freeText string=""/>'+ '\n')
-            f.write('            ' + '<datum string="wgs84"/'+ '\n')
+            f.write('            ' + '<datum string="wgs84"/>'+ '\n')  #<datum string="wgs84"/>
             f.write('         ' + '</Site>' + '\n')
     ## Stop create     
     f.write('  '+ '</Create>'+ '\n')
