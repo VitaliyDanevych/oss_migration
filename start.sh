@@ -10,6 +10,12 @@ if [ $# -eq 0 ]; then
 fi
 
 
+if [ `whoami` != 'root' ] && [ `whoami` != 'nmsadm' ]; then
+        echo "You must be root or nmsadm to run this script!"
+        exit 1
+fi
+
+
 echo "removing old files"
 cd ${wdir}
 rm -f *.log
@@ -55,7 +61,7 @@ if ! [ -f ${wdir}/whole_network_exported.xml ]
         echo "exporting of whole network to xml file...".
         echo "it takes a few minutes. you could drink a cup of cofee while it is proccessing :) ...."
         cd ${wdir}/
-        /opt/ericsson/arne/bin/export.sh -f whole_network_exported.xml -o -noTss > /dev/null 2>&1
+        /opt/ericsson/arne/bin/export.sh -f whole_network_exported.xml > /dev/null 2>&1
     else
         echo "The file whole_network_exported.xml has already present. I will not create a new one."
 fi
